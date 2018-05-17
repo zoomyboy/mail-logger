@@ -1,0 +1,15 @@
+{
+    "name": "zoomyboy/mail-logger",
+    "authors": [
+        {
+            "name": "Philipp Lang",
+            "email": "pille@zoomyboy.de"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "\\Aweos\\MailLogger": "src/"
+        }
+    },
+    "require": {}
+}
