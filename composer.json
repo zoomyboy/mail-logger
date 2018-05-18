@@ -8,7 +8,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "\\Aweos\\MailLogger": "src/"
+            "Zoomyboy\\MailLogger\\": "src/"
         }
     },
     "require": {}
